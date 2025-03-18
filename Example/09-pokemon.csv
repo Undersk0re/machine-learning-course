@@ -1,0 +1,11 @@
+--2025-03-18 20:28:53--  https://raw.githubusercontent.com/adamerose/datasets/master/pokemon.csv
+Risoluzione di raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.109.133, ...
+Connessione a raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 200 OK
+Lunghezza: 44028 (43K) [text/plain]
+Salvataggio in: «pokemon.csv»
+
+     0K .......... .......... .......... .......... ..        100% 2,59M=0,02s
+
+2025-03-18 20:28:53 (2,59 MB/s) - «pokemon.csv» salvato [44028/44028]
+
