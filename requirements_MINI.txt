@@ -32,3 +32,28 @@ jupyterlab==3.6
 
 # D
 jupyter-summarytools
+dython
+#calmsize
+#requests
+#selenium
+#pygam
+#istatapi
+#opendatasets # kaggle
+#pytensor 
+#pymc
+#git+https://github.com/pymc-learn/pymc-learn
+#pyspark
+#findspark
+#ucimlrepo
+#docling
+#klib
+#graphviz
+#lazypredict
+#dask[dataframe]
+#pycaret
+#umap-learn
+#shap
+#modelbit
+#onnx
+#micromlgen
+
