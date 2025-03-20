@@ -2,3 +2,5 @@
 OUT/
 tmp/
 pdf_guide/
+*.pkl
+frenzy86.s3.eu-west-2.amazonaws.com/
