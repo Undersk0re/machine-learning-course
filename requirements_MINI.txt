@@ -57,3 +57,4 @@ dython
 #onnx
 #micromlgen
 #statsmodels
+#ipywidgets
