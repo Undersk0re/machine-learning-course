@@ -58,3 +58,4 @@ dython
 #micromlgen
 #statsmodels
 #ipywidgets
+# pydotplus # deprecato
