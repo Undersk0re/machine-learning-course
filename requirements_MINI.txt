@@ -60,3 +60,4 @@ dython
 #ipywidgets
 # pydotplus # deprecato
 #xgboost # heavy nvidia driver
+#imblearn
