@@ -7,3 +7,7 @@ frenzy86.s3.eu-west-2.amazonaws.com/
 .venv/
 python/Lez13/13.1-creditcard.csv
 model.h
+ISTAT-geojson-italy
+kaggle.json
+*.zip
+popolazione.*

@@ -33,6 +33,7 @@ decorator==5.2.1
 defusedxml==0.7.1
 deprecation==2.1.0
 dython==0.7.9
+et_xmlfile==2.0.0
 executing==2.2.0
 fastcore==1.8.0
 fastjsonschema==2.21.1
@@ -124,6 +125,8 @@ numba==0.61.0
 numpy==1.26.4
 nvidia-nccl-cu12==2.26.2
 oauthlib==3.2.2
+opendatasets==0.1.22
+openpyxl==3.1.5
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2
