@@ -59,3 +59,4 @@ dython
 #statsmodels
 #ipywidgets
 # pydotplus # deprecato
+#xgboost # heavy nvidia driver
