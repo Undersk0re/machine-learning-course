@@ -105,6 +105,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 matplotlib-venn==1.1.2
+micromlgen==1.1.28
 mistune==3.1.2
 modelbit==0.43.11
 nbclassic==1.2.0
