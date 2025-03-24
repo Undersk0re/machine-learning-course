@@ -5,5 +5,7 @@
 - [pairplot](https://seaborn.pydata.org/generated/seaborn.pairplot.html#seaborn-pairplot)
 - [relplot seaborn](https://seaborn.pydata.org/generated/seaborn.relplot.html)
 - [pandas](https://pandas.pydata.org/docs/reference/index.html)
+- [panas df replace](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html)
 - [regression](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb#scrollTo=ckPmGzph0xap)
 - [sklearn](https://scikit-learn.org/stable/visualizations.html)
+- [R](https://cran.r-project.org/web/packages/IRkernel/readme/README.html)
