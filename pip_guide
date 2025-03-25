@@ -1,3 +1,0 @@
-pip cache purge
-
-pip install --force-reinstall --no-deps --no-cache-dir -r requirements.txt
